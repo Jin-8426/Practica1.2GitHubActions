@@ -1,3 +1,5 @@
+[![Construcción y testeo de un proyecto Java](https://github.com/Jin-8426/Practica1.2GitHubActions/actions/workflows/main.yml/badge.svg)](https://github.com/Jin-8426/Practica1.2GitHubActions/actions/workflows/main.yml)
+
 # Pipeline de Integración Continua con GitHub Actions
 
 Repositorio para el laboratorio de CI con GitHub Actions
